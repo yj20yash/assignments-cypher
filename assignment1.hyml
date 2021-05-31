@@ -1,0 +1,94 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width>, initial-scale=1.0">
+    <title>assignment 1</title>
+    <style>
+        .container{
+            border: 2px solid;
+            border-radius: 0px;
+            background-color: grey;
+        }
+        
+        .box{
+            font-style: normal;
+        }
+        
+        
+        
+       
+       
+
+        
+
+    </style>
+
+  
+    
+    
+
+</head>
+<body>
+    
+        <img src="https://animejnr.files.wordpress.com/2017/10/9ab228d8c9ab712451f0a7170420b34e.jpg" width="375" height="200">
+        
+    
+   
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKgy3tmFJWVJsEK8HOWykDP0pq5cKp33Zw1A&usqp=CAU" width="375" height="200">
+       
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFwp1QXqd6um8auThr3uT2fIDpX_U6aKiJhA&usqp=CAU" width="375" height="200">
+        
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1ARM9C0lPo3VW0ZVMPH0PZEHhv_P7XWja6g&usqp=CAU" width="375" height="200">
+        <br>
+        <br>
+        <div class="container">
+            <div class="box">
+                <h1> 1.Uchiha Madara</h1>
+            <p>
+                "Nothing ever goes as planned in this accursed world. The longer you live, the more you realize that the only things that truly exist in this reality are <em style="color: red;"> merely pain, suffering and futility -from Naruto</em>"
+            </div>
+           
+            </p>
+        </div>
+        <div class="container">
+            <div class="box">
+                <h1> 2.Sukuna</h1>
+            <p>
+                "King of curses,never ever look into his eyes - <em style="color: red;">from Jujutsu kaisen</em>"
+            </div>
+           
+            </p>
+        </div>
+        <div class="container">
+            <div class="box">
+                <h1> 3.Muzuna Kibutsuji</h1>
+            <p>
+                "Every demon was once a demon - <em style="color: red;" > from Demon slayer"</em> 
+            </div>
+           
+            </p>
+        </div>
+        <div class="container">
+            <div class="box">
+                <h1> 4.Yujiro Hanma</h1>
+            <p>
+                " Known as the stongest creature on planet earth-<em style="color: red;">from Baki</em>"
+            </div>
+           
+            </p>
+        </div>
+
+       
+  
+
+
+        
+
+    
+    
+ 
+</body>
+</html>
+
+
